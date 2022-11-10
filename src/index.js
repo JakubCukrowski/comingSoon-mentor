@@ -32,4 +32,4 @@ const handleInputClick = (e) => {
 }
 
 submitBtn.addEventListener("click", handleBtnClick)
-email.addEventListener("click", handleInputClick)
+email.addEventListener("focus", handleInputClick)

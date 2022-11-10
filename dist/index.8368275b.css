@@ -445,6 +445,12 @@ form button {
   transform: translate(-50%, -50%);
 }
 
+@media screen and (min-width: 900px) {
+  form button {
+    right: -10%;
+  }
+}
+
 form button.error {
   background-color: red;
   background-image: none;

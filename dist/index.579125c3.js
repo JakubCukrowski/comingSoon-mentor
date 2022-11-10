@@ -28,6 +28,6 @@ const handleInputClick = (e)=>{
     }
 };
 submitBtn.addEventListener("click", handleBtnClick);
-email.addEventListener("click", handleInputClick);
+email.addEventListener("focus", handleInputClick);
 
 //# sourceMappingURL=index.579125c3.js.map
