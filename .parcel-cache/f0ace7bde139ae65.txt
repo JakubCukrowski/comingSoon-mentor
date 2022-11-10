@@ -1,4 +1,4 @@
-4417
+4427
 104C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\globals\globals.json133124999545034369 0
 115C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\@parcel\utils\src\getRootDir.js133124999550825053 0
 92C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\css-what133124999550324455 1
@@ -6,7 +6,7 @@
 134C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\caniuse-lite\data\features\font-variant-numeric.js133124999555289030 0
 81C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\.gitignore133124998866239818 0
 114C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\xxhash-wasm\cjs\xxhash-wasm.js133124999543826301 0
-76C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\.idea133125738757018340 1
+76C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\.idea133125747037476796 1
 101C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\chokidar\index.js133125001956052638 0
 108C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\utility-types\SUPPORT.md133124999549854781 0
 109C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\@parcel\fs\lib\browser.js133124999544726424 0
@@ -31,7 +31,7 @@
 135C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\@parcel\package-manager\src\MockPackageInstaller.js133124999550724863 0
 123C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\caniuse-lite\data\features\autofocus.js133124999551723113 0
 135C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.c133124999551525231 0
-75C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\dist133125739049986263 1
+75C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\dist133125748584694506 1
 113C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\escape-string-regexp\index.js133124999544127558 0
 114C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\@swc\helpers\lib\_construct.js133124999551322964 0
 111C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\domutils\lib\feeds.d.ts.map133124999548724457 0
@@ -78,7 +78,7 @@
 127C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\caniuse-lite\data\features\localecompare.js133124999557039676 0
 103C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\color-name\index.js133124999544127558 0
 95C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\safe-buffer133124999545625700 1
-83C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\package.json133125002133807169 0
+83C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\package.json133125740695100043 0
 108C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\json5\lib\stringify.d.ts133124999550427330 0
 116C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\@parcel\transformer-json\LICENSE133124999543640230 0
 114C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\type-fest\source\value-of.d.ts133124999551555401 0
@@ -87,7 +87,7 @@
 116C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\@parcel\transformer-sass\LICENSE133125001963845051 0
 110C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\.bin\browserslist-lint.cmd133124999559551128 0
 112C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\electron-to-chromium\LICENSE133124999543625071 0
-75C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\scss133125739048331983 1
+75C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\scss133125748394924885 1
 108C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\supports-color\readme.md133124999545585656 0
 89C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\clone133124999545926723 1
 102C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\node-releases\data133124999545525063 1
@@ -105,7 +105,7 @@
 85C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\style-guide.md133124998866559870 0
 103C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\parse-json\index.js133124999544127558 0
 106C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\svgo\lib\svgo\jsAPI.js133124999551127090 0
-86C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\scss\style.scss133125739048322014 0
+86C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\scss\style.scss133125748394924885 0
 115C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\caniuse-lite\data\regions\AO.js133124999550923131 0
 122C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\caniuse-lite\data\features\css-grid.js133124999554022364 0
 88C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\@swc133124999534172028 1
@@ -313,6 +313,7 @@
 92C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\has-flag133124999545505010 1
 129C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\lmdb\node_modules\node-addon-api\package.json133124999550339613 0
 172C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-main-directory\package.json133124999553123773 0
+93C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\dist\logo.ce2ca219.svg133125740722429667 0
 118C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\css-what\lib\es\stringify.d.ts.map133124999550035377 0
 112C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\nth-check\lib\index.d.ts.map133124999549774496 0
 92C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\htmlnano133124999552622560 1
@@ -528,6 +529,7 @@
 101C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\csso\dist\csso.js133124999550750016 0
 132C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\@parcel\core\lib\requests\WriteBundlesRequest.js133124999554022364 0
 126C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\htmlnano\lib\modules\removeOptionalTags.js133124999550825053 0
+93C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\dist\index.f019f35b.js133125740722980768 0
 132C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\@jridgewell\resolve-uri\dist\resolve-uri.mjs.map133124999545268399 0
 103C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\lmdb\src\writer.cpp133124999553022759 0
 90C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\stable133124999545423667 1
@@ -586,6 +588,7 @@
 106C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\mdn-data\l10n\css.json133124999548564199 0
 107C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\@parcel\fs\package.json133124999549125923 0
 103C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\type-fest\readme.md133124999545034369 0
+100C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\dist\hero-mobile.ead56ec1.jpg133125740722182545 0
 166C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-main-directory\nested133124999551555401 1
 106C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\domutils\lib\legacy.js133124999545746037 0
 106C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\update-browserslist-db133124999546715907 1
@@ -980,7 +983,7 @@
 118C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\type-fest\ts41\delimiter-case.d.ts133124999549045878 0
 130C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\caniuse-lite\data\features\css-nth-child-of.js133124999554222877 0
 115C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\type-fest\ts41\pascal-case.d.ts133124999550923131 0
-90C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\.idea\workspace.xml133125738757018340 0
+90C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\.idea\workspace.xml133125747037476109 0
 114C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\type-fest\ts41\snake-case.d.ts133124999551322964 0
 102C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\escalade\readme.md133124999545746037 0
 102C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\css-select\LICENSE133124999543560026 0
@@ -1066,7 +1069,7 @@
 122C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\@parcel\packager-js\src\.eslintrc.json133124999550427330 0
 132C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\lmdb\node_modules\node-addon-api\tools\README.md133124999550624039 0
 105C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\mdn-data\css\index.js133124999545034369 0
-98C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\dist\index.8368275b.css.map133125739049976291 0
+98C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\dist\index.8368275b.css.map133125748396830685 0
 101C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\sass\sass.dart.js133125001956533901 0
 107C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\to-regex-range\index.js133125001955972631 0
 130C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\node-gyp-build-optional-packages\build-test.js133124999544726424 0
@@ -2434,6 +2437,7 @@
 130C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\@parcel\core\lib\requests\AssetGraphRequest.js133124999550908091 0
 114C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\domutils\lib\querying.d.ts.map133124999549934998 0
 124C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\@parcel\hash\parcel-hash.darwin-x64.node133124999550098358 0
+98C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\dist\index.44cb646a.css.map133125748584694506 0
 102C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\domhandler\LICENSE133124999543560026 0
 108C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\domutils\lib\querying.js133124999546554166 0
 130C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\caniuse-lite\data\features\mutationobserver.js133124999557466721 0
@@ -3154,6 +3158,7 @@
 131C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\caniuse-lite\data\features\css3-cursors-grab.js133124999554632592 0
 126C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\caniuse-lite\data\features\css3-tabsize.js133124999554632592 0
 129C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\caniuse-lite\data\features\custom-elements.js133124999554716747 0
+101C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\dist\hero-desktop.f8cd7e48.jpg133125740721797371 0
 122C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\caniuse-lite\data\features\datalist.js133124999554726800 0
 125C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\caniuse-lite\data\features\text-stroke.js133124999558502782 0
 121C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\caniuse-lite\data\features\dataset.js133124999554726800 0
@@ -3352,6 +3357,7 @@
 118C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\caniuse-lite\data\features\sdch.js133124999558126525 0
 129C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\@parcel\runtime-js\lib\helpers\cacheLoader.js133124999546826281 0
 127C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\caniuse-lite\data\features\server-timing.js133124999558176627 0
+98C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\dist\index.75731641.css.map133125740723010653 0
 128C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\caniuse-lite\data\features\serviceworkers.js133124999558176627 0
 126C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\caniuse-lite\data\features\setimmediate.js133124999558176627 0
 123C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\node_modules\caniuse-lite\data\features\shadowdom.js133124999558176627 0
@@ -4404,11 +4410,15 @@
 93C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\images\hero-mobile.jpg133124998867360104 0
 92C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\images\icon-error.svg133124998867520091 0
 86C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\images\logo.svg133124998867600098 0
+107C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\dist\bg-pattern-desktop.ea68a513.svg133125740722429667 0
 102C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\dist\favicon-32x32.654148d5.png133125000610289314 0
 100C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\dist\hero-mobile.75518169.jpg133125716048294314 0
+94C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\dist\index.44cb646a.css133125748584664573 0
 97C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\dist\index.579125c3.js.map133125736411083561 0
-94C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\dist\index.8368275b.css133125739049966340 0
-86C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\dist\index.html133125716048274376 0
+94C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\dist\index.75731641.css133125740722980768 0
+94C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\dist\index.8368275b.css133125748396810491 0
+97C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\dist\index.f019f35b.js.map133125740723010653 0
+86C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\dist\index.html133125748584664573 0
 93C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\dist\logo.b3ecd760.svg133125716048274376 0
 95C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\design\active-states.jpg133124998866719884 0
 96C:\Users\jdcuk\Desktop\frontend-mentor\base-apparel-coming-soon-master\design\desktop-design.jpg133124998866799854 0
