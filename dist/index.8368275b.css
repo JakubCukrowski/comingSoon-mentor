@@ -1,3 +1,5 @@
+@import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css";
+@import "https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;600&display=swap";
 html {
   -webkit-text-size-adjust: 100%;
 }
@@ -291,6 +293,164 @@ summary {
 
 template {
   display: none;
+}
+
+body {
+  font-family: Josefin Sans, sans-serif;
+}
+
+main {
+  max-width: 100%;
+  min-height: 100vh;
+  background: url("bg-pattern-desktop.52c178a3.svg") center / cover no-repeat;
+}
+
+.container {
+  max-width: 375px;
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 900px) {
+  .container {
+    max-width: 100%;
+    justify-content: space-between;
+    margin: 0;
+    display: flex;
+  }
+
+  .container .mobile {
+    width: 35%;
+    margin: 0 auto;
+  }
+}
+
+.container .logo-container {
+  padding: 1.2rem;
+}
+
+@media screen and (min-width: 900px) {
+  .container .logo-container {
+    margin-bottom: 120px;
+    padding: 50px 0;
+  }
+}
+
+.container .logo-container img {
+  width: 6em;
+}
+
+@media screen and (min-width: 900px) {
+  .container .logo-container img {
+    width: 150px;
+  }
+}
+
+.container .info {
+  text-align: center;
+}
+
+@media screen and (min-width: 900px) {
+  .container .info {
+    text-align: left;
+  }
+}
+
+.container .info h2 {
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  margin-top: .8em;
+  font-size: 3.2em;
+  font-weight: 700;
+  line-height: 1em;
+}
+
+@media screen and (min-width: 900px) {
+  .container .info h2 {
+    margin-bottom: 40px;
+  }
+}
+
+.container .info h2 span {
+  color: #ce9797;
+  font-weight: 300;
+}
+
+.container .info p {
+  color: #ce9797;
+  text-align: center;
+  margin-top: .75em;
+  margin-bottom: 1em;
+  padding: 0 1.2em;
+  font-size: .975em;
+  line-height: 1.5em;
+}
+
+@media screen and (min-width: 900px) {
+  .container .info p {
+    text-align: left;
+    padding: 0;
+  }
+}
+
+.desktop-hero-img {
+  display: none;
+}
+
+@media screen and (min-width: 900px) {
+  .desktop-hero-img {
+    display: block;
+  }
+}
+
+.desktop-hero-img img {
+  height: 100vh;
+}
+
+@media screen and (min-width: 900px) {
+  .hero-img {
+    display: none;
+  }
+}
+
+form {
+  padding: 0 20px;
+  position: relative;
+}
+
+@media screen and (min-width: 900px) {
+  form {
+    padding: 0;
+  }
+}
+
+form input {
+  width: 100%;
+  border: 1px solid #ce9797;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+form input.error {
+  border: 2px solid red;
+}
+
+form button {
+  background-image: linear-gradient(135deg, #f8bfbf, #ee8c8c);
+  border-radius: 20px;
+  padding: 11px 30px;
+  position: absolute;
+  top: 50%;
+  right: -10%;
+  transform: translate(-50%, -50%);
+}
+
+form button.error {
+  background-color: red;
+  background-image: none;
+}
+
+form button i {
+  color: #fff;
 }
 
 /*# sourceMappingURL=index.8368275b.css.map */
